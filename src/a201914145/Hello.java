@@ -1,5 +1,8 @@
 package a201914145;
 
 public class Hello {
-	System.out.println("hello world");
+	public static void run() {
+		System.out.println("hello world");
+		System.out.println("one");
+	}
 }
